@@ -6,4 +6,7 @@ This is the tried out feature which was part of Hacker Rank React Challenges. It
 
 2) List the articles and have two buttons to sort by ascending and descending values for Created-At date.
 
+
 <img width="343" alt="ByAuthor" src="https://user-images.githubusercontent.com/50093965/81059406-feb6af00-8eed-11ea-9660-dd53dbdb53d7.PNG">
+
+<img width="454" alt="ArticlesList" src="https://user-images.githubusercontent.com/50093965/81059488-1f7f0480-8eee-11ea-956a-48bf9a1b7e05.PNG">
